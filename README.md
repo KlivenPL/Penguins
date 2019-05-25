@@ -21,5 +21,5 @@ In order to compile an **Interactive** mode, please uncomment the line in **Peng
 ```
 Otherwise the game will compile to an Autonomous mode.
 
-#TODO list:
+# TODO list:
   - Online multiplayer mode.
