@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Penguins" targetName="Penguins" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2358574">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.6" value="13" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Penguins (disassembly)" value="55" />
+          <entry key="c" value="78" />
+          <entry key="cpp" value="1" />
+          <entry key="glsl" value="7" />
+          <entry key="h" value="80" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="55" />
+          <entry key="GLSL shader file" value="6" />
+          <entry key="ObjectiveC" value="159" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="43571" />
+          <entry key="glsl" value="320" />
+          <entry key="h" value="3644" />
+          <entry key="txt" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="121" />
+          <entry key="GLSL shader file" value="320" />
+          <entry key="ObjectiveC" value="47215" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source Files/Menu.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-994">
+              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+              <folding>
+                <element signature="e#42#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Header Files/Menu.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/vec3.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/GUI.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/GameWindow.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/SpriteRenderer.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/Movement.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="660" column="43" selection-start-line="660" selection-start-column="43" selection-end-line="660" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#59#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/Resources.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source Files/Structures.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>STANDARD_SR_VERTICES</find>
+      <find>initreso</find>
+      <find>init()</find>
+      <find>texture</find>
+      <find>sprite-&gt;scale</find>
+      <find>256</find>
+      <find>glGetIntegerv</find>
+      <find>\/\/\n\/\/ Created by oskar on 18\.04\.2019\.\n\/\/\n\n\#include \&quot;Menu\.h\&quot;\n\#include \&quot;\.\.\/Header Files\/GUI\.h\&quot;\n\#include \&quot;\.\.\/Header Files\/Utilities\.h\&quot;\ntypedef enum MenuAvailableSubstates \{substatesNone\, localOptions\, onlineOptions\} MenuAvailableSubstates\;\n\nMenuAvailableStates menuState \= MENU_AVAILABLE_STATES_MAIN_MENU\;\nMenuAvailableSubstates menuSubstate \= MENU_AVAILABLE_STATES_NONE\;\n\nSprite \*robotSprite \= NULL\;\nSprite \*humanSprite \= NULL\;\nSprite \*playSprite \= NULL\;\nint menuPlayerCount \= 1\;\nchar menuPlayerNames\[4\]\[16\]\;\nbool menuPlayerCtrlLoc\[4\]\;\n\nvoid displayMainMenu\(\)\;\n\nvoid initMenu\(\)\{\n    robotSprite \= createNewSprite\(\(vec2\)\{0\,0\}\, \(vec2\)\{1\,1\}\, 0\, resGetTexture\(AVAILABLE_TEXTURES_ROBOT\)\, NULL\, false\)\;\n    humanSprite \= createNewSprite\(\(vec2\)\{0\,0\}\, \(vec2\)\{0\.9f\,1\}\, 0\, resGetTexture\(AVAILABLE_TEXTURES_HUMAN\)\, NULL\, false\)\;\n    playSprite \= createNewSprite\(\(vec2\)\{0\,0\}\, \(vec2\)\{0\.9f\,1\}\, 0\, resGetTexture\(AVAILABLE_TEXTURES_PLAY\)\, NULL\, false\)\;\n\n    for \(int i \= 0\; i \&lt; 4\; \+\+i\) \{\n        sprintf\(menuPlayerNames\[i\]\, \&quot;Player \%d\&quot;\, i \+ 1\)\;\n        menuPlayerCtrlLoc\[i\] \= true\;\n    \}\n\n    sprintf\(menuPlayerNames\[0\]\, \&quot;OOOOOOOOOOOOOOO\&quot;\)\;\n\n\}\n\nvoid menuGuiUpdate\(\)\{\n    switch \(menuState\)\{\n        case MENU_AVAILABLE_STATES_NONE\:\n            break\;\n        case MENU_AVAILABLE_STATES_MAIN_MENU\:\n            displayMainMenu\(\)\;\n            break\;\n    \}\n\}\n\nvoid displayMainMenu\(\)\{\n    static float sinFlt1 \= 2137\;\n    static float sinFlt2 \= 2137\;\n    static float sinFlt3 \= 2137\;\n\n    if \(sinFlt1 \=\= 2137\) \{\n        sinFlt1 \= randFloat\(\-4\, 4\)\;\n        sinFlt2 \= randFloat\(\-4\, 4\)\;\n        sinFlt3 \= randFloat\(\-4\, 4\)\;\n    \}\n    float backgroundColor\[3\] \= \{\(1 \+ sinf\(sinFlt1 \+\= 0\.01f \* randFloat01\(\)\)\) \/ 2\.0f \* 0\.75f\,\n                                \(1 \+ sinf\(sinFlt2 \+\= 0\.01f \* randFloat01\(\)\)\) \/ 2\.0f \* 0\.75f\,\n                                \(1 \+ sinf\(sinFlt3 \+\= 0\.01f \* randFloat01\(\)\)\) \/ 2\.0f \* 0\.75f\}\;\n    guiDrawBox\(0\, 0\, 1920\, 1080\, backgroundColor\)\;\n    guiDrawText\(\&quot;Penguins\&quot;\, \(vec2\) \{1920 \/ 2 \- 260\, 120\}\, \(vec2\) \{1\, 1\}\,\n                \(vec3\) \{1 \- backgroundColor\[0\]\, 1 \- backgroundColor\[1\]\, 1 \- backgroundColor\[2\]\}\, NULL\)\;\n\n    if \(menuSubstate \=\= substatesNone\) \{\n        for \(int i \= 0\; i \&lt; 2\; \+\+i\) \{\n            if \(guiDrawButtonBox\(1920 \/ 2 \- 200\, 1080 \/ 3 \+ i \* 120\, 400\, 100\,\n                                 \(vec3\) \{\(1 \- backgroundColor\[0\]\) \* 0\.75f\, \(1 \- backgroundColor\[1\]\) \* 0\.75f\,\n                                         \(1 \- backgroundColor\[2\]\) \* 0\.75f\}\)\) \{\n                menuSubstate \= i \+ 1\;\n            \}\n            if \(i \=\= 0\)\n                guiDrawText\(\&quot;Play locally\&quot;\, \(vec2\) \{1920 \/ 2 \- 200 \+ 40\, 1080 \/ 3 \+ 30 \+ i \* 120\}\, \(vec2\) \{0\.5f\, 0\.5f\}\,\n                            \(vec3\) \{1\.25f \- backgroundColor\[0\]\, 1\.25f \- backgroundColor\[1\]\, 1\.25f \- backgroundColor\[2\]\}\,\n                            NULL\)\;\n            else if \(i \=\= 1\)\n                guiDrawText\(\&quot;Online multiplayer\&quot;\, \(vec2\) \{1920 \/ 2 \- 200 \+ 25\, 1080 \/ 3 \+ 40 \+ i \* 120\}\,\n                            \(vec2\) \{0\.35f\, 0\.35f\}\,\n                            \(vec3\) \{1\.25f \- backgroundColor\[0\]\, 1\.25f \- backgroundColor\[1\]\, 1\.25f \- backgroundColor\[2\]\}\,\n                            NULL\)\;\n        \}\n    \} else if \(menuSubstate \=\= localOptions\)\{\n        if \(guiDrawButtonBox\(1920\/2 \- 120 \- 20\, 1080 \- 1080\/7\, 330\, 100\, backgroundColor\)\)\{\n            menuSubstate \= substatesNone\;\n            menuState \= MENU_AVAILABLE_STATES_NONE\;\n        \}\n        guiDrawSprite\(playSprite\, 1920\/2 \- 120 \- 20\, 1080 \- 1080\/7\, 100\, 100\, \(vec3\) \{1 \- backgroundColor\[0\]\, 1 \- backgroundColor\[1\]\, 1 \- backgroundColor\[2\]\}\)\;\n        guiDrawText\(\&quot;PLAY\&quot;\, \(vec2\)\{1920\/2 \- 20\, 1080 \- 1080\/7 \+ 20\}\, \(vec2\)\{0\.75f\, 0\.75f\}\, \(vec3\) \{1 \- backgroundColor\[0\]\, 1 \- backgroundColor\[1\]\, 1 \- backgroundColor\[2\]\}\, NULL\)\;\n        for \(int i \= 0\; i \&lt;\= menuPlayerCount\; \+\+i\) \{\n            if \(i \=\= menuPlayerCount\)\{\n                if \(menuPlayerCount \&lt; 4\) \{\n                    if \(guiDrawButtonBox\(1920 \/ 2 \- 37\, 1080 \/ 3 \- 37 \- 20 \+ 170 \* i\, 75\, 75\, \(vec3\) \{backgroundColor\[0\] \+ 0\.25f\, backgroundColor\[1\] \+ 0\.25f\, backgroundColor\[2\] \+ 0\.25f\}\)\)\n                        menuPlayerCount\+\+\;\n                    guiDrawText\(\&quot;\+\&quot;\, \(vec2\) \{1920 \/ 2 \- 37 \+ 8\, 1080 \/ 3 \- 43 \- 20\+ 170 \* i\}\, \(vec2\) \{1\.0f\, 1\.0f\}\, NULL\, NULL\)\;\n                \}\n                continue\;\n            \}\n            guiDrawBox\(1920\/3\, 1080\/3 \+ 150 \* i\, 100\, 100\, NULL\)\;\n\n            guiDrawBox\(1920\/3 \- 60\, 1080\/3 \+ 25 \+ 150 \* i\, 50\, 50\, \(vec3\)\{backgroundColor\[0\] \+ 0\.25f\, backgroundColor\[1\] \+ 0\.25f\, backgroundColor\[2\] \+ 0\.25f\}\)\;\n            guiDrawBox\(1920\/3 \+ 110\, 1080\/3 \+ 25 \+ 150 \* i\, 50\, 50\,  \(vec3\)\{backgroundColor\[0\] \+ 0\.25f\, backgroundColor\[1\] \+ 0\.25f\, backgroundColor\[2\] \+ 0\.25f\}\)\;\n            guiDrawText\(\&quot;\&lt;\&quot;\, \(vec3\)\{1920\/3 \- 60 \+ 10\, 1080\/3 \+ 25 \+ 3 \+ 150 \* i\}\, \(vec3\)\{0\.5f\,0\.5f\}\, NULL\, NULL\)\;\n            guiDrawText\(\&quot;\&gt;\&quot;\, \(vec3\)\{1920\/3 \+ 110 \+ 15\, 1080\/3 \+ 25 \+ 3 \+ 150 \* i\}\, \(vec3\)\{0\.5f\,0\.5f\}\, NULL\, NULL\)\;\n\n            guiDrawSprite\(humanSprite\, 1920 \- 1920\/3\.1f\, 1080\/3 \+ 150 \* i\, 60 \* 0\.9f\, 60\, NULL\)\;\n            if \(guiDrawButtonBox\(1920 \- 1920\/3\.1f \+ 20\, 1080\/3 \+ 75 \+ 150 \* i\, 20\, 20\, NULL\)\)\n                menuPlayerCtrlLoc\[i\] \= true\;\n            guiDrawSprite\(robotSprite\, 1920 \- 1920\/3\.1f \+ 80\, 1080\/3 \+ 150 \* i\, 60\, 60\, NULL\)\;\n            if \(guiDrawButtonBox\(1920 \- 1920\/3\.1f \+ 80 \+ 20\, 1080\/3 \+ 75 \+ 150 \* i\, 20\, 20\, NULL\)\)\n                menuPlayerCtrlLoc\[i\] \= false\;\n\n            guiDrawBox\(\(menuPlayerCtrlLoc\[i\] \? 1920 \- \(1920\/3\.1f \- 22\) \: 1920 \- 1920\/3\.1f \+ 80 \+ 22\)\, 1080\/3 \+ 77 \+ 150 \* i\, 16\, 16\, \(vec3\)\{0\,0\,0\}\)\;\n\n            if \(guiOnClick\(humanSprite\)\)\n                menuPlayerCtrlLoc\[i\] \= true\;\n\n            if \(guiOnClick\(robotSprite\)\)\n                menuPlayerCtrlLoc\[i\] \= false\;\n\n            guiDrawText\(menuPlayerNames\[i\]\, \(vec2\)\{1920\/3 \+ 180\, 1080\/3 \+ 30 \+ 150 \* i\}\, \(vec2\)\{0\.4f\, 0\.4f\}\, NULL\, NULL\)\;\n        \}\n    \}\n\n\}\n</find>
+      <find>// // Created by oskar on 18.04.2019. //  #include &quot;Menu.h&quot; #include &quot;../Header Files/GUI.h&quot; #include &quot;../Header Files/Utilities.h&quot; typedef enum MenuAvailableSubstates {substatesNone, localOptions, onlineOptions} MenuAvailableSubstates;  MenuAvailableStates menuState = MENU_AVAILABLE_STATES_MAIN_MENU; MenuAvailableSubstates menuSubstate = MENU_AVAILABLE_STATES_NONE;  Sprite *robotSprite = NULL; Sprite *humanSprite = NULL; Sprite *playSprite = NULL; int menuPlayerCount = 1; char menuPlayerNames[4][16]; bool menuPlayerCtrlLoc[4];  void displayMainMenu();  void initMenu(){     robotSprite = createNewSprite((vec2){0,0}, (vec2){1,1}, 0, resGetTexture(AVAILABLE_TEXTURES_ROBOT), NULL, false);     humanSprite = createNewSprite((vec2){0,0}, (vec2){0.9f,1}, 0, resGetTexture(AVAILABLE_TEXTURES_HUMAN), NULL, false);     playSprite = createNewSprite((vec2){0,0}, (vec2){0.9f,1}, 0, resGetTexture(AVAILABLE_TEXTURES_PLAY), NULL, false);      for (int i = 0; i &lt; 4; ++i) {         sprintf(menuPlayerNames[i], &quot;Player %d&quot;, i + 1);         menuPlayerCtrlLoc[i] = true;     }      sprintf(menuPlayerNames[0], &quot;OOOOOOOOOOOOOOO&quot;);  }  void menuGuiUpdate(){     switch (menuState){         case MENU_AVAILABLE_STATES_NONE:             break;         case MENU_AVAILABLE_STATES_MAIN_MENU:             displayMainMenu();             break;     } }  void displayMainMenu(){     static float sinFlt1 = 2137;     static float sinFlt2 = 2137;     static float sinFlt3 = 2137;      if (sinFlt1 == 2137) {         sinFlt1 = randFloat(-4, 4);         sinFlt2 = randFloat(-4, 4);         sinFlt3 = randFloat(-4, 4);     }     float backgroundColor[3] = {(1 + sinf(sinFlt1 += 0.01f * randFloat01())) / 2.0f * 0.75f,                                 (1 + sinf(sinFlt2 += 0.01f * randFloat01())) / 2.0f * 0.75f,                                 (1 + sinf(sinFlt3 += 0.01f * randFloat01())) / 2.0f * 0.75f};     guiDrawBox(0, 0, 1920, 1080, backgroundColor);     guiDrawText(&quot;Penguins&quot;, (vec2) {1920 / 2 - 260, 120}, (vec2) {1, 1},                 (vec3) {1 - backgroundColor[0], 1 - backgroundColor[1], 1 - backgroundColor[2]}, NULL);      if (menuSubstate == substatesNone) {         for (int i = 0; i &lt; 2; ++i) {             if (guiDrawButtonBox(1920 / 2 - 200, 1080 / 3 + i * 120, 400, 100,                                  (vec3) {(1 - backgroundColor[0]) * 0.75f, (1 - backgroundColor[1]) * 0.75f,                                          (1 - backgroundColor[2]) * 0.75f})) {                 menuSubstate = i + 1;             }             if (i == 0)                 guiDrawText(&quot;Play locally&quot;, (vec2) {1920 / 2 - 200 + 40, 1080 / 3 + 30 + i * 120}, (vec2) {0.5f, 0.5f},                             (vec3) {1.25f - backgroundColor[0], 1.25f - backgroundColor[1], 1.25f - backgroundColor[2]},                             NULL);             else if (i == 1)                 guiDrawText(&quot;Online multiplayer&quot;, (vec2) {1920 / 2 - 200 + 25, 1080 / 3 + 40 + i * 120},                             (vec2) {0.35f, 0.35f},                             (vec3) {1.25f - backgroundColor[0], 1.25f - backgroundColor[1], 1.25f - backgroundColor[2]},                             NULL);         }     } else if (menuSubstate == localOptions){         if (guiDrawButtonBox(1920/2 - 120 - 20, 1080 - 1080/7, 330, 100, backgroundColor)){             menuSubstate = substatesNone;             menuState = MENU_AVAILABLE_STATES_NONE;         }         guiDrawSprite(playSprite, 1920/2 - 120 - 20, 1080 - 1080/7, 100, 100, (vec3) {1 - backgroundColor[0], 1 - backgroundColor[1], 1 - backgroundColor[2]});         guiDrawText(&quot;PLAY&quot;, (vec2){1920/2 - 20, 1080 - 1080/7 + 20}, (vec2){0.75f, 0.75f}, (vec3) {1 - backgroundColor[0], 1 - backgroundColor[1], 1 - backgroundColor[2]}, NULL);         for (int i = 0; i &lt;= menuPlayerCount; ++i) {             if (i == menuPlayerCount){                 if (menuPlayerCount &lt; 4) {                     if (guiDrawButtonBox(1920 / 2 - 37, 1080 / 3 - 37 - 20 + 170 * i, 75, 75, (vec3) {backgroundColor[0] + 0.25f, backgroundColor[1] + 0.25f, backgroundColor[2] + 0.25f}))                         menuPlayerCount++;                     guiDrawText(&quot;+&quot;, (vec2) {1920 / 2 - 37 + 8, 1080 / 3 - 43 - 20+ 170 * i}, (vec2) {1.0f, 1.0f}, NULL, NULL);                 }                 continue;             }             guiDrawBox(1920/3, 1080/3 + 150 * i, 100, 100, NULL);              guiDrawBox(1920/3 - 60, 1080/3 + 25 + 150 * i, 50, 50, (vec3){backgroundColor[0] + 0.25f, backgroundColor[1] + 0.25f, backgroundColor[2] + 0.25f});             guiDrawBox(1920/3 + 110, 1080/3 + 25 + 150 * i, 50, 50,  (vec3){backgroundColor[0] + 0.25f, backgroundColor[1] + 0.25f, backgroundColor[2] + 0.25f});             guiDrawText(&quot;&lt;&quot;, (vec3){1920/3 - 60 + 10, 1080/3 + 25 + 3 + 150 * i}, (vec3){0.5f,0.5f}, NULL, NULL);             guiDrawText(&quot;&gt;&quot;, (vec3){1920/3 + 110 + 15, 1080/3 + 25 + 3 + 150 * i}, (vec3){0.5f,0.5f}, NULL, NULL);              guiDrawSprite(humanSprite, 1920 - 1920/3.1f, 1080/3 + 150 * i, 60 * 0.9f, 60, NULL);             if (guiDrawButtonBox(1920 - 1920/3.1f + 20, 1080/3 + 75 + 150 * i, 20, 20, NULL))                 menuPlayerCtrlLoc[i] = true;             guiDrawSprite(robotSprite, 1920 - 1920/3.1f + 80, 1080/3 + 150 * i, 60, 60, NULL);             if (guiDrawButtonBox(1920 - 1920/3.1f + 80 + 20, 1080/3 + 75 + 150 * i, 20, 20, NULL))                 menuPlayerCtrlLoc[i] = false;              guiDrawBox((menuPlayerCtrlLoc[i] ? 1920 - (1920/3.1f - 22) : 1920 - 1920/3.1f + 80 + 22), 1080/3 + 77 + 150 * i, 16, 16, (vec3){0,0,0});              if (guiOnClick(humanSprite))                 menuPlayerCtrlLoc[i] = true;              if (guiOnClick(robotSprite))                 menuPlayerCtrlLoc[i] = false;              guiDrawText(menuPlayerNames[i], (vec2){1920/3 + 180, 1080/3 + 30 + 150 * i}, (vec2){0.4f, 0.4f}, NULL, NULL);         }     }  }</find>
+      <find>;</find>
+      <find>1920/3</find>
+      <find>1080/3</find>
+      <find>srProjMat</find>
+      <find>GLFW_KEY_ESCAPE</find>
+      <find>gui</find>
+      <find>pl</find>
+      <find>main</find>
+      <find>avfields[0]</find>
+      <find>incorrect</find>
+      <find>Could Not Find</find>
+      <find>kliveninc</find>
+      <find>next</find>
+      <find>spawnpen</find>
+      <find>spawn</find>
+      <find>nextTurn</find>
+      <find>ctrl</find>
+      <find>makem</find>
+      <find>makeM</find>
+      <find>makemy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1920/3.5f</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Users\Oskar\Documents\CLion\Penguins\Source Files</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source Files/GameWindow.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Source Files/Resources.h" />
+        <option value="$PROJECT_DIR$/Source Files/SpriteRenderer.h" />
+        <option value="$PROJECT_DIR$/Source Files/Physics.h" />
+        <option value="$PROJECT_DIR$/Source Files/Cursor.c" />
+        <option value="$PROJECT_DIR$/Source Files/Cursor.h" />
+        <option value="$PROJECT_DIR$/Source Files/Movement.h" />
+        <option value="$PROJECT_DIR$/Source Files/Shaders/Vertex.glsl" />
+        <option value="$PROJECT_DIR$/Source Files/Shaders/Frag.glsl" />
+        <option value="$PROJECT_DIR$/Header Files/Physics.h" />
+        <option value="$PROJECT_DIR$/Source Files/Input.c" />
+        <option value="$PROJECT_DIR$/Header Files/Input.h" />
+        <option value="$PROJECT_DIR$/Header Files/GUI.h" />
+        <option value="$PROJECT_DIR$/Source Files/Menu.h" />
+        <option value="$PROJECT_DIR$/Source Files/GameSave.c" />
+        <option value="$PROJECT_DIR$/Header Files/GameSave.h" />
+        <option value="$PROJECT_DIR$/Header Files/SpriteRenderer.h" />
+        <option value="$PROJECT_DIR$/Source Files/GUI.c" />
+        <option value="$PROJECT_DIR$/Source Files/Physics.c" />
+        <option value="$PROJECT_DIR$/Header Files/Movement.h" />
+        <option value="$PROJECT_DIR$/Header Files/Structures.h" />
+        <option value="$PROJECT_DIR$/bin/board.txt" />
+        <option value="$PROJECT_DIR$/Source Files/Utilities.c" />
+        <option value="$PROJECT_DIR$/Header Files/Utilities.h" />
+        <option value="$PROJECT_DIR$/Source Files/SpriteRenderer.c" />
+        <option value="$PROJECT_DIR$/Header Files/GameWindow.h" />
+        <option value="$PROJECT_DIR$/Source Files/GameWindow.c" />
+        <option value="$PROJECT_DIR$/Header Files/Penguins.h" />
+        <option value="$PROJECT_DIR$/Source Files/Structures.c" />
+        <option value="$PROJECT_DIR$/Header Files/Resources.h" />
+        <option value="$PROJECT_DIR$/Source Files/Resources.c" />
+        <option value="$PROJECT_DIR$/Header Files/Menu.h" />
+        <option value="$PROJECT_DIR$/Source Files/Menu.c" />
+        <option value="$PROJECT_DIR$/Source Files/Movement.c" />
+        <option value="$PROJECT_DIR$/Source Files/Penguins.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="572" />
+    <option name="width" value="1355" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Penguins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Penguins" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Penguins" type="462c0819:PsiDirectoryNode" />
+              <item name="Header Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Penguins" type="462c0819:PsiDirectoryNode" />
+              <item name="Source Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PW/EPFU/Marcin/PenguinsOli" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\bin" />
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\Header Files" />
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\Lib" />
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\OpenGL\GLFW" />
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\Source Files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Oskar\Documents\CLion\Penguins\Source Files\Shaders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Penguins">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Penguins" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="phase=movement 80.txt xddd.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Penguins" TARGET_NAME="Penguins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Penguins" RUN_TARGET_NAME="Penguins">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Penguins" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="" />
+      <created>1552765301199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552765301199</updated>
+      <workItem from="1552765302507" duration="6476000" />
+      <workItem from="1552945837306" duration="2401000" />
+      <workItem from="1553437661369" duration="7948000" />
+      <workItem from="1553450841221" duration="8124000" />
+      <workItem from="1553460179620" duration="10383000" />
+      <workItem from="1553472102180" duration="881000" />
+      <workItem from="1553723877574" duration="1523000" />
+      <workItem from="1553791903870" duration="8676000" />
+      <workItem from="1553803438651" duration="7070000" />
+      <workItem from="1553812522785" duration="1856000" />
+      <workItem from="1553873542466" duration="3304000" />
+      <workItem from="1553899795235" duration="5285000" />
+      <workItem from="1554062185801" duration="7945000" />
+      <workItem from="1554130845576" duration="19294000" />
+      <workItem from="1554229019324" duration="5837000" />
+      <workItem from="1554738760080" duration="16173000" />
+      <workItem from="1555248247113" duration="15446000" />
+      <workItem from="1555340488902" duration="1875000" />
+      <workItem from="1555342461989" duration="1594000" />
+      <workItem from="1555355904407" duration="6289000" />
+      <workItem from="1555595695072" duration="35647000" />
+      <workItem from="1555667547632" duration="3727000" />
+      <workItem from="1555973753726" duration="4214000" />
+      <workItem from="1556137167513" duration="3946000" />
+      <workItem from="1557235852225" duration="936000" />
+      <workItem from="1557580636869" duration="244000" />
+      <workItem from="1557932958263" duration="5492000" />
+      <workItem from="1557939121123" duration="690000" />
+      <workItem from="1558035140373" duration="8226000" />
+      <workItem from="1558290827271" duration="15253000" />
+      <workItem from="1558470216814" duration="41000" />
+      <workItem from="1558705686137" duration="13660000" />
+      <workItem from="1558791778978" duration="2032000" />
+      <workItem from="1558800737249" duration="7021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="239509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48880598" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49413645" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.26332623" weight="0.31453362" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.40298507" weight="0.318872" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.7366738" side_tool="true" visible="true" weight="0.318872" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22121535" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="sprite-&gt;position" />
+        <watch expression="tmpPlayers.0-&gt;penguins-&gt;*penguins" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OpenGL/GLFW/include/GLFW/glfw3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="3043" column="12" selection-start-line="3043" selection-start-column="12" selection-end-line="3043" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGL/GLAD/include/glad/glad.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/stb_image.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="375" column="17" selection-start-line="375" selection-start-column="17" selection-end-line="375" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Shaders/Vertex.glsl" />
+    <entry file="file://$PROJECT_DIR$/Source Files/Shaders/Frag.glsl" />
+    <entry file="file://$PROJECT_DIR$/Source Files/Input.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/GUI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="90" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/GameSave.c" />
+    <entry file="file://$PROJECT_DIR$/Header Files/GameSave.h" />
+    <entry file="file://$PROJECT_DIR$/Header Files/Input.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/SpriteRenderer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Physics.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev2/mingw64/x86_64-w64-mingw32/include/dxgi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="2239" column="9" selection-start-line="2239" selection-start-column="9" selection-end-line="2239" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Physics.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Movement.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Structures.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="48" column="53" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Utilities.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Penguins.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/board.txt" />
+    <entry file="file://$PROJECT_DIR$/bin/boardSaved.txt" />
+    <entry file="file://$PROJECT_DIR$/Header Files/GameWindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Utilities.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Resources.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header Files/Menu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/SpriteRenderer.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/GUI.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/vec3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Movement.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Structures.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Resources.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="660" column="43" selection-start-line="660" selection-start-column="43" selection-end-line="660" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#59#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/GameWindow.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Menu.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-994">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

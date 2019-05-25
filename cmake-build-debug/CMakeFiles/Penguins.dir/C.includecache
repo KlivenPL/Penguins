@@ -1,0 +1,488 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../OpenGL/GLAD/include/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+../OpenGL/GLAD/include/glad/glad.h
+windows.h
+-
+KHR/khrplatform.h
+-
+
+../OpenGL/GLFW/include/GLFW/glfw3.h
+stddef.h
+-
+stdint.h
+-
+OpenGL/gl3.h
+-
+OpenGL/gl3ext.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/glcorearb.h
+-
+GLES/gl.h
+-
+GLES/glext.h
+-
+GLES2/gl2.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl3.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl31.h
+-
+GLES2/gl2ext.h
+-
+vulkan/vulkan.h
+-
+GL/gl.h
+-
+GL/glext.h
+-
+GL/glu.h
+-
+
+../OpenGL/GLM/include/cglm/affine-mat.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+mat3.h
+../OpenGL/GLM/include/cglm/mat3.h
+simd/sse2/affine.h
+../OpenGL/GLM/include/cglm/simd/sse2/affine.h
+simd/avx/affine.h
+../OpenGL/GLM/include/cglm/simd/avx/affine.h
+
+../OpenGL/GLM/include/cglm/affine.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+affine-mat.h
+../OpenGL/GLM/include/cglm/affine-mat.h
+
+../OpenGL/GLM/include/cglm/bezier.h
+
+../OpenGL/GLM/include/cglm/box.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+
+../OpenGL/GLM/include/cglm/cam.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+plane.h
+../OpenGL/GLM/include/cglm/plane.h
+
+../OpenGL/GLM/include/cglm/cglm.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+mat3.h
+../OpenGL/GLM/include/cglm/mat3.h
+affine.h
+../OpenGL/GLM/include/cglm/affine.h
+cam.h
+../OpenGL/GLM/include/cglm/cam.h
+frustum.h
+../OpenGL/GLM/include/cglm/frustum.h
+quat.h
+../OpenGL/GLM/include/cglm/quat.h
+euler.h
+../OpenGL/GLM/include/cglm/euler.h
+plane.h
+../OpenGL/GLM/include/cglm/plane.h
+box.h
+../OpenGL/GLM/include/cglm/box.h
+color.h
+../OpenGL/GLM/include/cglm/color.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+io.h
+../OpenGL/GLM/include/cglm/io.h
+project.h
+../OpenGL/GLM/include/cglm/project.h
+sphere.h
+../OpenGL/GLM/include/cglm/sphere.h
+ease.h
+../OpenGL/GLM/include/cglm/ease.h
+curve.h
+../OpenGL/GLM/include/cglm/curve.h
+bezier.h
+../OpenGL/GLM/include/cglm/bezier.h
+
+../OpenGL/GLM/include/cglm/color.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+
+../OpenGL/GLM/include/cglm/common.h
+stdint.h
+-
+math.h
+-
+float.h
+-
+types.h
+../OpenGL/GLM/include/cglm/types.h
+simd/intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/curve.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+
+../OpenGL/GLM/include/cglm/ease.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+
+../OpenGL/GLM/include/cglm/euler.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+
+../OpenGL/GLM/include/cglm/frustum.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+plane.h
+../OpenGL/GLM/include/cglm/plane.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+
+../OpenGL/GLM/include/cglm/io.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+stdio.h
+-
+stdlib.h
+-
+
+../OpenGL/GLM/include/cglm/mat3.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+simd/sse2/mat3.h
+../OpenGL/GLM/include/cglm/simd/sse2/mat3.h
+
+../OpenGL/GLM/include/cglm/mat4.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+simd/sse2/mat4.h
+../OpenGL/GLM/include/cglm/simd/sse2/mat4.h
+simd/avx/mat4.h
+../OpenGL/GLM/include/cglm/simd/avx/mat4.h
+simd/neon/mat4.h
+../OpenGL/GLM/include/cglm/simd/neon/mat4.h
+assert.h
+-
+
+../OpenGL/GLM/include/cglm/plane.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+
+../OpenGL/GLM/include/cglm/project.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+
+../OpenGL/GLM/include/cglm/quat.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3.h
+../OpenGL/GLM/include/cglm/vec3.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+mat3.h
+../OpenGL/GLM/include/cglm/mat3.h
+affine-mat.h
+../OpenGL/GLM/include/cglm/affine-mat.h
+simd/sse2/quat.h
+../OpenGL/GLM/include/cglm/simd/sse2/quat.h
+
+../OpenGL/GLM/include/cglm/simd/arm.h
+intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/avx/affine.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+immintrin.h
+-
+
+../OpenGL/GLM/include/cglm/simd/avx/mat4.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+immintrin.h
+-
+
+../OpenGL/GLM/include/cglm/simd/intrin.h
+xmmintrin.h
+-
+emmintrin.h
+-
+x86intrin.h
+-
+smmintrin.h
+-
+nmmintrin.h
+-
+immintrin.h
+-
+arm_neon.h
+-
+x86.h
+../OpenGL/GLM/include/cglm/simd/x86.h
+arm.h
+../OpenGL/GLM/include/cglm/simd/arm.h
+
+../OpenGL/GLM/include/cglm/simd/neon/mat4.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/sse2/affine.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/sse2/mat3.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/sse2/mat4.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/sse2/quat.h
+../../common.h
+../OpenGL/GLM/include/cglm/common.h
+../intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/simd/x86.h
+intrin.h
+../OpenGL/GLM/include/cglm/simd/intrin.h
+
+../OpenGL/GLM/include/cglm/sphere.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+mat4.h
+../OpenGL/GLM/include/cglm/mat4.h
+
+../OpenGL/GLM/include/cglm/types.h
+
+../OpenGL/GLM/include/cglm/util.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+stdbool.h
+-
+
+../OpenGL/GLM/include/cglm/vec3-ext.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+stdbool.h
+-
+math.h
+-
+float.h
+-
+
+../OpenGL/GLM/include/cglm/vec3.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec4.h
+../OpenGL/GLM/include/cglm/vec4.h
+vec3-ext.h
+../OpenGL/GLM/include/cglm/vec3-ext.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+
+../OpenGL/GLM/include/cglm/vec4-ext.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec3-ext.h
+../OpenGL/GLM/include/cglm/vec3-ext.h
+stdbool.h
+-
+math.h
+-
+float.h
+-
+
+../OpenGL/GLM/include/cglm/vec4.h
+common.h
+../OpenGL/GLM/include/cglm/common.h
+vec4-ext.h
+../OpenGL/GLM/include/cglm/vec4-ext.h
+util.h
+../OpenGL/GLM/include/cglm/util.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GUI.h
+Resources.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Resources.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GameWindow.h
+SpriteRenderer.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/SpriteRenderer.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Input.h
+stdbool.h
+-
+GLFW/glfw3.h
+-
+cglm.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/cglm.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Menu.h
+Resources.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Resources.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Movement.h
+SpriteRenderer.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/SpriteRenderer.h
+Structures.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Structures.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Penguins.h
+Structures.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Structures.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Physics.h
+GameWindow.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GameWindow.h
+cglm.h
+-
+Utilities.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Utilities.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Resources.h
+cglm.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/cglm.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/SpriteRenderer.h
+stdbool.h
+-
+stdlib.h
+-
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+Resources.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Resources.h
+cglm.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/cglm.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Structures.h
+SpriteRenderer.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/SpriteRenderer.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Utilities.h
+stdbool.h
+-
+cglm.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/cglm.h
+direct.h
+-
+GameWindow.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GameWindow.h
+
+D:/Users/Oskar/Documents/CLion/Penguins/Source Files/Penguins.c
+stdio.h
+-
+stdlib.h
+-
+../Header Files/Penguins.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Penguins.h
+../Header Files/Utilities.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Utilities.h
+../Header Files/Structures.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Structures.h
+stdbool.h
+-
+uchar.h
+-
+../Header Files/GameWindow.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GameWindow.h
+cglm.h
+D:/Users/Oskar/Documents/CLion/Penguins/Source Files/cglm.h
+../Header Files/Input.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Input.h
+../Header Files/Physics.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Physics.h
+../Header Files/Movement.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Movement.h
+../Header Files/GUI.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/GUI.h
+../Header Files/Menu.h
+D:/Users/Oskar/Documents/CLion/Penguins/Header Files/Menu.h
+sys/time.h
+-
+

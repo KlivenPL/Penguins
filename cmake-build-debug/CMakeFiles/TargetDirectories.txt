@@ -1,0 +1,3 @@
+D:/Users/Oskar/Documents/CLion/Penguins/cmake-build-debug/CMakeFiles/Penguins.dir
+D:/Users/Oskar/Documents/CLion/Penguins/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Oskar/Documents/CLion/Penguins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
