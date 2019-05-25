@@ -15,10 +15,10 @@
 #include "../Header Files/Menu.h"
 #include <sys/time.h>
 
-#define INTERACTIVE
 
-const char *APP_ID="kliveninc2";
-void gameLoop();
+//#define INTERACTIVE   //Uncomment this line to compile an Interactive mode.
+
+const char *APP_ID="kliveninc";
 void draw();
 int loadGame(GameStage stage, int penguinsPlacementCount, char *inputBoardFilePath);
 int saveGame(char outputFilePath[FILENAME_MAX]);

@@ -11,7 +11,149 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="" />
+    <list default="true" id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="Initial Release">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source Files/Penguins.c" beforeDir="false" afterPath="$PROJECT_DIR$/Source Files/Penguins.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/103.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/104.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/113.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/61.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/63.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/65.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/66.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/68.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/71.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/72.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/75.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/76.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/77.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/79.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/82.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/83.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/84.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/85.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/87.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/88.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/89.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/92.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/93.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/94.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/95.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/96.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/97.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/99.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Penguins.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Penguins1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Penguins2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/board09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/freeglut.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/nosd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/penguins-instruction.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tester.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/xddd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/Source_Files/Penguins.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/Source_Files/Penguins.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/objects.a" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,17 +166,17 @@
     <session id="-2358574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="8" />
-          <entry key="project.open.time.6" value="13" />
+          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.6" value="14" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,18 +200,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="43571" />
+          <entry key="c" value="43654" />
           <entry key="glsl" value="320" />
           <entry key="h" value="3644" />
-          <entry key="txt" value="128" />
+          <entry key="txt" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="121" />
           <entry key="GLSL shader file" value="320" />
-          <entry key="ObjectiveC" value="47215" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="ObjectiveC" value="47298" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -77,109 +219,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Source Files/Menu.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-994">
-              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-              <folding>
-                <element signature="e#42#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Header Files/Menu.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/vec3.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/GUI.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1060">
-              <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/GameWindow.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/SpriteRenderer.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/Movement.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="660" column="43" selection-start-line="660" selection-start-column="43" selection-end-line="660" selection-end-column="43" />
+            <state relative-caret-position="136">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#59#96#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/Resources.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/Structures.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#1988#2104#0" expanded="true" />
+                <element signature="e#2562#2609#0" expanded="true" />
+                <element signature="e#3998#4029#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -225,6 +274,9 @@
     <dirStrings>
       <dir>D:\Users\Oskar\Documents\CLion\Penguins\Source Files</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -280,6 +332,7 @@
     <option name="width" value="1355" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -289,21 +342,21 @@
         <subPane>
           <expand>
             <path>
-              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KlivenPenguins" type="b2602c69:ProjectViewProjectNode" />
               <item name="Penguins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KlivenPenguins" type="b2602c69:ProjectViewProjectNode" />
               <item name="Penguins" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KlivenPenguins" type="b2602c69:ProjectViewProjectNode" />
               <item name="Penguins" type="462c0819:PsiDirectoryNode" />
               <item name="Header Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Penguins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KlivenPenguins" type="b2602c69:ProjectViewProjectNode" />
               <item name="Penguins" type="462c0819:PsiDirectoryNode" />
               <item name="Source Files" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -351,7 +404,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Penguins" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="phase=movement 80.txt xddd.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Penguins" TARGET_NAME="Penguins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Penguins" RUN_TARGET_NAME="Penguins">
+    <configuration name="Penguins" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Penguins" TARGET_NAME="Penguins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Penguins" RUN_TARGET_NAME="Penguins">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -405,11 +458,14 @@
       <workItem from="1558705686137" duration="13660000" />
       <workItem from="1558791778978" duration="2032000" />
       <workItem from="1558800737249" duration="7021000" />
+      <workItem from="1558808259652" duration="512000" />
+      <workItem from="1558808788512" duration="6000" />
+      <workItem from="1558808895402" duration="418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239509000" />
+    <option name="totallyTimeSpent" value="240445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -418,21 +474,21 @@
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48880598" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49413645" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.26332623" weight="0.31453362" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.2585288" visible="true" weight="0.31453362" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.40298507" weight="0.318872" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.39818764" weight="0.318872" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.7366738" side_tool="true" visible="true" weight="0.318872" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.74147123" side_tool="true" visible="true" weight="0.31453362" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" weight="0.27765727" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22121535" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22761194" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -441,6 +497,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -590,6 +649,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Menu.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Header Files/Menu.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -597,9 +666,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/vec3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/GUI.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/GameWindow.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Source Files/SpriteRenderer.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="1020">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -607,27 +700,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/GUI.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenGL/GLM/include/cglm/vec3.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source Files/Movement.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="510">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source Files/Resources.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
@@ -641,40 +727,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/Resources.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="660" column="43" selection-start-line="660" selection-start-column="43" selection-end-line="660" selection-end-column="43" />
+        <state relative-caret-position="136">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <element signature="e#59#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/GameWindow.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/Menu.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-994">
-          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <element signature="e#42#75#0" expanded="true" />
+            <element signature="e#1988#2104#0" expanded="true" />
+            <element signature="e#2562#2609#0" expanded="true" />
+            <element signature="e#3998#4029#0" expanded="true" />
           </folding>
         </state>
       </provider>
