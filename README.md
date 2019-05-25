@@ -2,7 +2,7 @@
 An EPFU game project.
 Made by Oskar Hącel and Hytham Salah
 
-# Disclamer
+# Disclaimer
 Folder *bin* contains compiled .exe files of Interactive and Autonomous modes, as well as all requied files to run the game.
 
 # Compilation
