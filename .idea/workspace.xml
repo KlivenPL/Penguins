@@ -11,147 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="Initial Release">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d0d2c3ab-7a93-414a-b11f-d01046a06271" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source Files/Penguins.c" beforeDir="false" afterPath="$PROJECT_DIR$/Source Files/Penguins.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/100.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/103.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/104.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/105.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/108.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/109.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/110.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/114.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/115.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/116.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/118.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/122.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/31.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/32.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/33.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/34.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/35.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/36.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/37.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/38.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/40.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/41.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/42.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/43.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/44.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/45.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/46.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/47.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/48.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/49.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/51.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/52.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/53.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/54.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/56.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/57.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/58.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/59.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/61.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/62.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/63.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/64.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/65.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/66.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/67.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/68.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/69.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/70.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/71.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/72.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/73.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/74.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/76.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/77.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/78.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/79.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/80.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/81.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/82.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/83.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/84.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/85.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/86.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/87.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/88.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/89.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/92.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/93.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/94.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/95.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/96.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/97.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/98.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/99.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Penguins.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Penguins1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Penguins2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board03.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board06.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board07.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board08.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/board09.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/freeglut.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/nosd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/penguins-instruction.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tester.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/xddd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/Source_Files/Penguins.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/Source_Files/Penguins.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Penguins.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Penguins.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Penguins.dir/objects.a" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -186,12 +48,12 @@
           <entry key="cpp" value="1" />
           <entry key="glsl" value="7" />
           <entry key="h" value="80" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="1" />
+          <entry key="CMakeLists.txt" value="2" />
           <entry key="Disassembly" value="55" />
           <entry key="GLSL shader file" value="6" />
           <entry key="ObjectiveC" value="159" />
@@ -203,12 +65,12 @@
           <entry key="c" value="43654" />
           <entry key="glsl" value="320" />
           <entry key="h" value="3644" />
-          <entry key="txt" value="143" />
+          <entry key="txt" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="121" />
+          <entry key="CMakeLists.txt" value="125" />
           <entry key="GLSL shader file" value="320" />
           <entry key="ObjectiveC" value="47298" />
           <entry key="PLAIN_TEXT" value="22" />
@@ -221,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="-51">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="77" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#59#96#0" expanded="true" />
@@ -230,6 +92,15 @@
                 <element signature="e#2562#2609#0" expanded="true" />
                 <element signature="e#3998#4029#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -282,7 +153,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Source Files/GameWindow.h" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Source Files/Resources.h" />
         <option value="$PROJECT_DIR$/Source Files/SpriteRenderer.h" />
         <option value="$PROJECT_DIR$/Source Files/Physics.h" />
@@ -317,6 +187,7 @@
         <option value="$PROJECT_DIR$/Source Files/Menu.c" />
         <option value="$PROJECT_DIR$/Source Files/Movement.c" />
         <option value="$PROJECT_DIR$/Source Files/Penguins.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -372,7 +243,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PW/EPFU/Marcin/PenguinsOli" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -460,12 +331,20 @@
       <workItem from="1558800737249" duration="7021000" />
       <workItem from="1558808259652" duration="512000" />
       <workItem from="1558808788512" duration="6000" />
-      <workItem from="1558808895402" duration="418000" />
+      <workItem from="1558808895402" duration="2205000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Release">
+      <created>1558809427648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558809427648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240445000" />
+    <option name="totallyTimeSpent" value="242232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -475,20 +354,20 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48880598" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.2585288" visible="true" weight="0.31453362" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.25746268" visible="true" weight="0.31453362" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.39818764" weight="0.318872" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.39712155" weight="0.318872" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.74147123" side_tool="true" visible="true" weight="0.31453362" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946696" weight="0.27765727" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.7425373" side_tool="true" visible="true" weight="0.31453362" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989339" weight="0.27765727" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22761194" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22761194" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -499,7 +378,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Release" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -528,13 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="375" column="17" selection-start-line="375" selection-start-column="17" selection-end-line="375" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -727,10 +600,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Source Files/Penguins.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="-51">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="77" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <element signature="e#59#96#0" expanded="true" />

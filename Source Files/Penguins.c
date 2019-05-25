@@ -16,7 +16,7 @@
 #include <sys/time.h>
 
 
-//#define INTERACTIVE   //Uncomment this line to compile an Interactive mode.
+#define INTERACTIVE   //Uncomment this line to compile an Interactive mode.
 
 const char *APP_ID="kliveninc";
 void draw();
