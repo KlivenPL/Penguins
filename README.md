@@ -8,6 +8,7 @@ Folder *bin* contains compiled .exe files of Interactive and Autonomous modes, a
 # Compilation
 Compile on Windows.
 JetBrains CLion is recommended.
+Use **mingw-w64**
 
 First change
 ```make
