@@ -10,12 +10,6 @@ Compile on Windows, use **mingw-w64**.
 
 JetBrains CLion is recommended.
 
-First change
-```make
-target_link_libraries (Penguins **FULL_PATH_TO**_lib-mingw-w64\\glfw3.dll m)
-```
-in **CMakeLists.txt** file.
-
 In order to compile an **Interactive** mode, please uncomment the line in **Penguins.c** file:
 ```c
 #define INTERACTIVE   //Uncomment this line to compile an Interactive mode.
