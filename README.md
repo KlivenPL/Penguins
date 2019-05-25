@@ -6,9 +6,9 @@ Made by Oskar Hącel and Hytham Salah
 Folder *bin* contains compiled .exe files of Interactive and Autonomous modes, as well as all requied files to run the game.
 
 # Compilation
-Compile on Windows.
+Compile on Windows, use **mingw-w64**.
+
 JetBrains CLion is recommended.
-Use **mingw-w64**
 
 First change
 ```make
